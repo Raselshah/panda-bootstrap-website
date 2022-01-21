@@ -1,0 +1,40 @@
+.slider-bg {
+    background-color: #fceae8;
+}
+
+.primary-button {
+    background-color: #ff438d;
+    color: #fff;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.price-title {
+    color: #ff438d;
+}
+
+.cart-bg-1 {
+    background-color: orange;
+}
+
+.cart-bg-2 {
+    background-color: orchid;
+}
+
+.cart-bg-3 {
+    background-color: blue;
+}
+
+.card-shadow {
+    box-shadow: 2px 3px 4px 1px rgba(59, 55, 55, 0.356);
+    ;
+}
+
+.log-in {
+    height: 300px;
+}
+
+.width-control {
+    width: 300px;
+}
